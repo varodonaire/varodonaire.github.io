@@ -33,3 +33,29 @@ en-UK:
 
 # Another locale
 # --------------
+es: &DEFAULT_ES
+  page                  : "Página"
+  pagination_previous   : "Anterior"
+  pagination_next       : "Siguiente"
+  breadcrumb_home_label : "Home"
+  breadcrumb_separator  : "/"
+  toc_label             : "On This Page"
+  ext_link_label        : "Link"
+  less_than             : "menos de"
+  minute_read           : "minuto de lectura"
+  minutes_read          : "minutos de lectura"
+  share_on_label        : "Compartir en"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Categorías:"
+  date_label            : "Actualizado:"
+  comments_label        : "Deja un comentario"
+  more_label            : "Learn More"
+  related_label         : "Puede que te guste"
+  follow_label          : "Seguir:"
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Website"
+  email_label           : "Email"
+es-CL:
+  <<: *DEFAULT_ES
