@@ -1,6 +1,6 @@
 ---
 
-layout: "post"
+
 title: "Un mes con el iPad Pro"
 
 ---
