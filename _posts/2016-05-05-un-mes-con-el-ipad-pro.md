@@ -9,7 +9,7 @@ title: Un mes con el iPad Pro
 
 ## O ¿Por qué usar un tablet gigante?
 
-![iPad!]({{site.url}}/images/unMesiPadPro/IMG_0045.JPG)
+![iPad!]({{base_path}}/images/unMesiPadPro/IMG_0045.JPG){: .align-center}
 
 
 Ciertamente, el iPad Pro no es un tablet que pase desapercibido. Sólo por su tamaño es notable usarlo. De hecho, uno de mis alumnos me preguntó "Profe, ¿por qué se compró *esa tele*?" No pude dejar de encontrarle cierta razón.
@@ -57,7 +57,7 @@ Los 4 gb de RAM que tiene se notan. Casi nunca recarga páginas en Safari, corre
 
 #### Accesorios: el smart keyboard y apple pencil
 
-![Smart keyboard & Apple pencil]({{site.url}}/images/unMesiPadPro/IMG_0047.JPG)
+![Smart keyboard & Apple pencil]({{base_path}}/images/unMesiPadPro/IMG_0047.JPG){: .align-center}
 
 Compré el smart keyboard un par de días después que el ipad por dos razones básicas:
 
@@ -66,7 +66,7 @@ Compré el smart keyboard un par de días después que el ipad por dos razones b
 
 No tengo mayor problema con las teclas con poco travel, en general, y en este teclado eso sigue siendo así. Es una sensación extraña, pero agradable: el teclado está forrado en un tipo de tela, lo que le da una textura que no tiene un teclado común; si bien son teclas poco profundas, el sonido que hace el teclado es agradable, como de un teclado más antiguo. Lo más importante, funciona muy bien, permite escribir sin ningún problema y el tamaño es tremendamente cómodo.
 
-![Pages y el teclado son amiguis]({{site.url}}/images/unMesiPadPro/IMG_0048.JPG)
+![Pages y el teclado son amiguis]({{base_path}}/images/unMesiPadPro/IMG_0048.JPG){: .align-center}
 
 No todo es perfecto, sin embargo. El iPad junto con el teclado pesa bastante más que el iPad solo. No pesa *mucho,* tampoco es incómodo en el bolso, pero sí es un poco ¿decepcionante? No es esa la palabra y quizás sea simplemente demasiada delicadeza de parte mía.
 
@@ -74,7 +74,7 @@ Otro problema tiene que ver con el uso como cubierta. He notado que en el mío, 
 
 Los ángulos en que queda puesto el iPad, si bien son fijos, no son incómodos, sobre todo teniendo en cuenta que la pantalla tiene un ángulo de visión excelente.
 
-![It's a nice angle, Batman]({{site.url}}/images/unMesiPadPro/IMG_0049.JPG)
+![It's a nice angle, Batman]({{base_path}}/images/unMesiPadPro/IMG_0049.JPG){: .align-center}
 
 En cuando al lápiz, llevo usándolo pocos días como para poder comentar algo más profundo. Escribe excelente, con escaso *lag* pero he notado que en realidad depende de la app que use. Usarlo como sustituto de un mouse tiene sus ventajas, aunque no reconoce los swipes desde los lados de la pantalla. Creo que lo más incómodo no es el lápiz, sino la imagen mental que uno puede tener: me pillo usándolo con la mano sostenida en el aire, con la idea inconsciente de no apoyarla para no "manchar" lo que estoy escribiendo. Por supuesto, no funciona así pues cuando detecta que estoy usando el lápiz no toma en cuenta el input que puede darle mi mano, pero cuesta convencerse de eso. Supongo que es cosa de práctica.
 
@@ -100,7 +100,7 @@ En cuanto a apps no optimizadas para este iPad, como dije antes FaceBook es la q
 
 El iPad Pro es el computador más poderoso que tengo. No en cuanto a puro poder de procesamiento, sino que en base a algo más elusivo y, por lo mismo, casi inasible: es el computador que me permite hacer más cosas con menos esfuerzo. El énfasis está en que *me* permite. Para todas las cosas que necesito hacer, el iPad responde y me permite usarlo sin problemas. Gran parte de eso, por supuesto, va en elegir correctamente las aplicaciones; suena fácil (hay *millones de millones* de apps) pero también incluye un tiempo de buscar pacientemente esa app que es la que más se acomoda a cómo funcionas. Quizás, incluso, no exista[^1] como en el caso de mi app perfecta para LaTeX. Encontré una solución, quizás bastante geek, pero ya saber LaTeX presupone cierta geekiness. Es cierto que, entonces, el iPad no es para todos; y está bien, quizás nunca lo sea, pero sí me parece claro que no sólo es posible que sea el computador para una gran parte de la población, sino que es algo que está completamente al alcance de la mano.
 
-![Familia]({{site.url}}/images/unMesiPadPro/IMG_2384.JPG)
+![Familia]({{base_path}}/images/unMesiPadPro/IMG_2384.JPG){: .align-center}
 
 [^1]: Es como el amor.
 
