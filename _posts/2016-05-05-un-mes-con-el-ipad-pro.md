@@ -2,7 +2,7 @@
 
 title: "Un mes con el iPad Pro"
 categories:
-  -Tech
+  - Tech
 
 ---
 
