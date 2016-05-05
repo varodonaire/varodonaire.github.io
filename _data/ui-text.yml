@@ -39,7 +39,7 @@ es: &DEFAULT_ES
   pagination_next       : "Siguiente"
   breadcrumb_home_label : "Home"
   breadcrumb_separator  : "/"
-  toc_label             : "On This Page"
+  toc_label             : "En esta página"
   ext_link_label        : "Link"
   less_than             : "menos de"
   minute_read           : "minuto de lectura"
@@ -55,7 +55,7 @@ es: &DEFAULT_ES
   follow_label          : "Seguir:"
   feed_label            : "Feed"
   powered_by            : "Powered by"
-  website_label         : "Website"
-  email_label           : "Email"
+  website_label         : "Sitio"
+  email_label           : "Correo"
 es-CL:
   <<: *DEFAULT_ES
