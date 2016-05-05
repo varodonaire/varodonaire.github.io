@@ -6,8 +6,6 @@ categories:
 
 ---
 
-# Un mes con el iPad Pro
-
 ## O ¿Por qué usar un tablet gigante?
 
 ![iPad!]({{base_path}}/images/unMesiPadPro/IMG_0045.JPG){: .align-center}
