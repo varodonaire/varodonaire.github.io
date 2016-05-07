@@ -28,20 +28,20 @@ Digamos que cumple su función. No me gusta que requiera acceso completo para fu
 
 Por supuesto, los teclados de terceras partes no funcionan en cosas como ingreso de contraseñas, por seguridad)
 
-![¡No se fijen en los errores!]({{base_path}}/images/Transcribir1/IMG_0054.PNG)
+![¡No se fijen en los errores!]({{base_path}}/images/Transcribir1/IMG_0054.PNG "¡No se fijen en los errores!")
 
 ¿Bonito? No. Pero cumple su función aceptablemente bien. También hay otras apps, como [English IPA keyboard](https://itunes.apple.com/us/app/english-ipa-keyboard/id909967485?mt=8) que cumplen funciones parecidas. 
 
 ##  Distribución de teclado IPA para OS X
 
-![IPA, old sport!]({{base_path}}/images/Transcribir1/dist_teclados.png)
+![IPA, old sport!]({{base_path}}/images/Transcribir1/dist_teclados.png "IPA, old sport!")
 
 
 Así como podemos cambiar la distribución de teclado en inglés, español, dvorak y otras cosas exóticas, podemos instalar distribuciones nuevas. SIL hace [disponible](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=uniipakeyboard#79dbd88a) una distribución de teclado para OS X. Esta distribución nos da algunas teclas especiales, como el acento en el teclado español, que hacen que la siguiente tecla cambie. Por ejemplo, apretando la tecla = y luego la e me da un ə (un schwa, por si acaso).
 
 La documentación es bastante clara, pero no es necesariamente obvio de usar al principio, más que nada por la cantidad de símbolos distintos que hay.
 
-![Parte de la documentación]({{base_path}}/images/Transcribir1/docteclado.png)
+![Parte de la documentación]({{base_path}}/images/Transcribir1/docteclado.png "Parte de la documentación")
 
 
 ## Fuentes
@@ -52,9 +52,9 @@ SIL también pone a disposición una buena cantidad de fuentes. Una que uso en p
 
 En OS X la respuesta es muy fácil. Basta descargar la fuente, hacer doble clic sobre ella y Catálogo Tipográfico se abrirá y la instalará (Catálogo Tipográfico es la app de OS X que se encarga de manejar fuentes).
 
-![Catálogo Tipográfico con Charis SIL]({{base_path}}/images/Transcribir1/CatalogoTipografico.png)
+![Catálogo Tipográfico con Charis SIL]({{base_path}}/images/Transcribir1/CatalogoTipografico.png "Catálogo Tipográfico con Charis SIL")
 
 
 ¿Pero en iOS? Hay una app gratuita llamada [AnyFont](https://appsto.re/cl/Iwa-W.i) que nos permite instalar fuentes en el sistema, que quedan disponibles para todas las aplicaciones. Simplemente hay que hacer llegar los archivos, por airdrop, correo o cualquier otro medio, abrirlos en AnyFont y seguir las instrucciones.
 
-![AnyFont]({{base_path}}/images/Transcribir1/IMG_2738.PNG)
+![AnyFont]({{base_path}}/images/Transcribir1/IMG_2738.PNG "AnyFont")
