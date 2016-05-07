@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Transcribir sin morir tanto en el intento
 date: 2016-05-07 14:47
+excerpt: "Algunas herramientas para escribir transcripciones en OS X y iOS"
 categories: 
   - Linguistics
 ---
