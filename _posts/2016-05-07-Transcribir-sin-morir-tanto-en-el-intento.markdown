@@ -54,4 +54,4 @@ En OS X la respuesta es muy fácil. Basta descargar la fuente, hacer doble clic 
 
 ¿Pero en iOS? Hay una app gratuita llamada [AnyFont](https://appsto.re/cl/Iwa-W.i) que nos permite instalar fuentes en el sistema, que quedan disponibles para todas las aplicaciones. Simplemente hay que hacer llegar los archivos, por airdrop, correo o cualquier otro medio, abrirlos en AnyFont y seguir las instrucciones.
 
-![AnyFont](IMG_2738.PNG)
+![AnyFont]({{base_path}}/images/Transcribir1/IMG_2738.PNG)
