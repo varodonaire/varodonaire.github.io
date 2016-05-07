@@ -4,12 +4,14 @@ title: "Un mes con el iPad Pro"
 excerpt: "Por qué compré un iPad Pro y cómo he estado usándolo"
 categories:
   - Tech
+header:
+  image:IMG_0045.JPG
 
 ---
 
 ## O ¿Por qué usar un tablet gigante?
 
-![iPad!]({{base_path}}/images/unMesiPadPro/IMG_0045.JPG){: .align-center}
+
 
 
 Ciertamente, el iPad Pro no es un tablet que pase desapercibido. Sólo por su tamaño es notable usarlo. De hecho, uno de mis alumnos me preguntó "Profe, ¿por qué se compró *esa tele*?" No pude dejar de encontrarle cierta razón.
