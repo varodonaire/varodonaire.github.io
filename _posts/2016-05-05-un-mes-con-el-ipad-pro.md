@@ -1,6 +1,7 @@
 ---
 
 title: "Un mes con el iPad Pro"
+excerpt: "Por qué compré un iPad Pro y cómo he estado usándolo"
 categories:
   - Tech
 
