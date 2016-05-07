@@ -4,6 +4,8 @@ date: 2016-05-07 14:47
 excerpt: "Algunas herramientas para escribir transcripciones en OS X y iOS"
 categories: 
   - Linguistics
+ header:
+  image: transc1head.png
 ---
 
 Transcribir es una versión especial del infierno, según Dante[^1]. Si a eso le añadimos una letra espantosa *con los símbolos que lleva haciendo desde los cuatro años,* la verdad es que hay que abandonar las esperanzas. 
