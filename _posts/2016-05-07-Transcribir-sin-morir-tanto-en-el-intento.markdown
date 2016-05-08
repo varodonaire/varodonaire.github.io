@@ -23,7 +23,8 @@ IPA Keyboard es un teclado para iOS hecho por [Dawid Pietrala](http://dafterapps
 
 Digamos que cumple su función. No me gusta que requiera acceso completo para funcionar —la app simplemente se cae si no lo tiene. 
 
-(Por si acaso, a los teclados de terceras partes en iOS se les puede otorgar acceso completo. Según Apple: 
+(Por si acaso, a los teclados de terceras partes en iOS se les puede otorgar acceso completo. Según Apple:
+ 
 > Some third-party keyboards require full access to your iOS device to work. This could potentially provide personal information to the third-party developer when you use the keyboard. iOS doesn't let third-party keyboards access your personal information unless you allow it for each keyboard that you add.
 
 Por supuesto, los teclados de terceras partes no funcionan en cosas como ingreso de contraseñas, por seguridad)
