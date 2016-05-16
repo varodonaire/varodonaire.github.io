@@ -1,6 +1,6 @@
 ---
 title: LaTeX, parte 1
-date: 
+date: 2016-05-15 20:10
 excerpt: "LaTeX en iOS, una primera aproximación"
 categories: 
     - Tech
