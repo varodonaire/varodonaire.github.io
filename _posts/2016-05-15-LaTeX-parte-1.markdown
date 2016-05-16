@@ -65,6 +65,7 @@ Francamente, del listado que aparece las únicas que vale la pena considerar son
 Las únicas dos apps "reales" son, como se dijo antes, Texpad y Tex Writer. Ambas son las únicas que pueden compilar el texto *en* el iPad (o iPhone). Texpad, además, tiene un servicio online para compilar.
 
 ![Tex Writer]({{base_path}}/images/LaTeX1/Texwriter.PNG "Tex Writer"){: .align-left}
+
 ![Texpad en iOS]({{base_path}}/images/LaTeX1/TexpadiOS.PNG "Texpad en iOS"){: .align-right}
 
 ¿Por qué, entonces, no me gustan estas apps? Para ser sincero, Texpad fue actualizada hace relativamente poco, un par de semanas. La aplicación ahora tiene una interfaz de usuario renovada, bastante más lógica de lo que era antes. Sin embargo, ambas tienen un par de dificultades que no me son prácticas.
