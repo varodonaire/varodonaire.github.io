@@ -3,7 +3,7 @@ title: LaTeX, parte 1
 date: 
 excerpt: "LaTeX en iOS, una primera aproximación"
 categories: 
-	- Tech
+    - Tech
 header:
   image: HeaderLaTeX1.png
 ---
