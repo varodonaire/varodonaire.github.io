@@ -33,7 +33,10 @@ La dirección es Dardignac 28. Un mapa podría ser útil
         var map = new google.maps.Map(mapDiv, {
           center: {lat: -33.434, lng: -70.638},
           zoom: 15
-        });
+        }
+var marker = new google.maps.Marker({
+    position: {lat: -33.434, lng: -70.638},
+    title:"¡Aquí!");
       }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
