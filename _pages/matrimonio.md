@@ -24,6 +24,6 @@ Nos han hecho esa pregunta muchas veces, así que creemos que es necesario respo
 
 ## Algunas consideraciones varias
 
-Queremos que todos, ustedes y nosotros, lo pasemos súper! Pero, para nosotros, es súper poco importante el protocolo *oficial* de los matrimonios: no lo conocemos ni lo queremos conocer. Por eso es un cocktail, por ejemplo. No esperen ligas (además, los dos tenemos las piernas peludas y sería un poco feo) o ramos (nunca taaan mujersh). Esta ceremonia, importante como es, sólo viene a confirmar el amor que nos tenemos como pareja y que ustedes estén con nosotros es algo que agradecemos y deseamos. Así que pasémoslo bien, relajadamente, y acompáñennos… ¡hasta que nos vayamos de luna de miel!
+Queremos que todos, ustedes y nosotros, lo pasemos súper! Pero, para nosotros, es súper poco importante el protocolo *oficial* de los matrimonios: no lo conocemos ni lo queremos conocer. Por ejemplo, por eso es un cocktail. No esperen ligas (los dos tenemos las piernas peludas y sería un poco feo) o ramos (nunca taaan mujersh). Esta ceremonia, importante como es, sólo viene a confirmar el amor que nos tenemos como pareja y que ustedes estén con nosotros es algo que agradecemos y deseamos. Así que pasémoslo bien, relajadamente, y acompáñennos… ¡hasta que nos vayamos de luna de miel!
 
 ¡Salud!
