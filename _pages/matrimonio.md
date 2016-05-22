@@ -30,8 +30,7 @@ La dirección es Dardignac 28. Un mapa podría ser útil
         });
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
-        async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
 
 
 ## Regalos y esas cosas
