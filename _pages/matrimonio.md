@@ -31,7 +31,7 @@ La dirección es Dardignac 28. Un mapa podría ser útil
       function initMap() {
         var mapDiv = document.getElementById('map');
         var map = new google.maps.Map(mapDiv, {
-          center: {lat: -70.638, lng: -33.434},
+          center: {lat: -33.434, lng: -70.638},
           zoom: 8
         });
       }
