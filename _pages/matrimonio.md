@@ -5,7 +5,7 @@ excerpt: "Detalles acerca del matrimonio"
 sitemap: false
 permalink: /matrimonio.html
 header: 
-  image: Nosotros.jpg
+  Fmage: Nosotros.jpg
 ---
 
 ## Cómo, dónde y cuándo.
