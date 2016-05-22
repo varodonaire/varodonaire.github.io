@@ -31,11 +31,11 @@ La dirección es Dardignac 28. Un mapa podría ser útil
       function initMap() {
         var mapDiv = document.getElementById('map');
         var map = new google.maps.Map(mapDiv, {
-          center: {lat: -33.434, lng: -70.638},
+          center: {lat: -33.433369, lng: -70.636404},
           zoom: 16
         });
 var marker = new google.maps.Marker({
-    position: {lat: -33.434, lng: -70.638},
+    position: {lat: -33.433369, lng: -70.636404},
     map: map,
     title:'¡Aquí!'});
       }
