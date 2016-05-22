@@ -20,6 +20,12 @@ Más que una fiesta, la idea es un cocktail, pues esa misma noche nos vamos de l
 
 La dirección es Dardignac 28. Un mapa podría ser útil
 
+<style>
+      #map {
+        width: 500px;
+        height: 400px;
+      }
+</style>
 <div id="map"></div>
 <script>
       function initMap() {
