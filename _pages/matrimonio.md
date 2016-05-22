@@ -18,6 +18,22 @@ La ceremonia será el sábado 25 de junio a las 16:00 horas. El lugar físico pr
 
 Más que una fiesta, la idea es un cocktail, pues esa misma noche nos vamos de luna de miel. Por lo mismo, no es necesario ser *taaan* formal, aunque a todos nos gustan los matrimonios por la oportunidad de disfr… para vernos bien. Queda completamente a criterio del invitado; por lo demás, tampoco creemos que el clima dé para sandalias.
 
+La dirección es Dardignac 28. Un mapa podría ser útil
+
+<div id="map"></div>
+<script>
+      function initMap() {
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+          center: {lat: -70.638, lng: -33.434},
+          zoom: 8
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
+        async defer></script>
+
+
 ## Regalos y esas cosas
 
 Nos han hecho esa pregunta muchas veces, así que creemos que es necesario responderla. Afortunadamente, ya tenemos nuestra casa armada —y desarmada— hace años, así que en realidad no hay nada que necesitemos. Si alguien insiste y quisiera, puede colaborar con algunos dólares para la luna de miel, pero en ningún caso es obligatorio ni esperado por nosotros. Es más, es un poco vergonzoso siquiera escribirlo.
