@@ -24,6 +24,7 @@ La dirección es Dardignac 28. Un mapa podría ser útil
       #map {
         width: 500px;
         height: 400px;
+        margin: auto;
       }
 </style>
 <div id="map"></div>
