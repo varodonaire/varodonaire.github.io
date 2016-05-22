@@ -4,7 +4,8 @@ layout: single
 excerpt: "Detalles acerca del matrimonio"
 sitemap: false
 permalink: /matrimonio.html
-header: Nosotros.jpg
+header: 
+    Image: Nosotros.jpg
 ---
 
 ## Cómo, dónde y cuándo.
