@@ -1,6 +1,6 @@
 ---
 title: "Haciendo trampa con LaTeX en el iPad"
-date: 2016-12-8 18:00
+date: 2016-12-08 17:46
 excerpt: "LaTeX en iOS, pero no en iOS"
 categories: 
 	- Tech
