@@ -2,36 +2,36 @@
 title: Transcribir sin morir tanto en el intento
 date: 2016-05-07 14:47
 excerpt: "Algunas herramientas para escribir transcripciones en OS X y iOS"
-categories: 
+categories:
   - Linguistics
 header:
-  image: transc1head.png
+  image: images/transc1head.png
 
 ---
 
-Transcribir es una versión especial del infierno, según Dante[^1]. Si a eso le añadimos una letra espantosa *con los símbolos que lleva haciendo desde los cuatro años,* la verdad es que hay que abandonar las esperanzas. 
+Transcribir es una versión especial del infierno, según Dante[^1]. Si a eso le añadimos una letra espantosa *con los símbolos que lleva haciendo desde los cuatro años,* la verdad es que hay que abandonar las esperanzas.
 
-[^1]: OK, exagero pero sólo un poco. 
+[^1]: OK, exagero pero sólo un poco.
 
-Aunque realmente no. Hay alternativas para hacer transcripciones en el Mac y en iOS. No sólo eso, según avanza el curso y transcribir deja de ser como leer arcanos del tarot y muestra su sistematicidad, estos métodos terminan volviéndose parte fundamental del trabajo. 
+Aunque realmente no. Hay alternativas para hacer transcripciones en el Mac y en iOS. No sólo eso, según avanza el curso y transcribir deja de ser como leer arcanos del tarot y muestra su sistematicidad, estos métodos terminan volviéndose parte fundamental del trabajo.
 
-Veamos entonces las alternativas. 
+Veamos entonces las alternativas.
 
 ##  IPA keyboard (iOS)
 
-IPA Keyboard es un teclado para iOS hecho por [Dawid Pietrala](http://dafterapps.com) que contiene los símbolos de la IPA. 
+IPA Keyboard es un teclado para iOS hecho por [Dawid Pietrala](http://dafterapps.com) que contiene los símbolos de la IPA.
 
-Digamos que cumple su función. No me gusta que requiera acceso completo para funcionar —la app simplemente se cae si no lo tiene. 
+Digamos que cumple su función. No me gusta que requiera acceso completo para funcionar —la app simplemente se cae si no lo tiene.
 
 (Por si acaso, a los teclados de terceras partes en iOS se les puede otorgar acceso completo. Según Apple:
- 
+
 > Some third-party keyboards require full access to your iOS device to work. This could potentially provide personal information to the third-party developer when you use the keyboard. iOS doesn't let third-party keyboards access your personal information unless you allow it for each keyboard that you add.
 
 Por supuesto, los teclados de terceras partes no funcionan en cosas como ingreso de contraseñas, por seguridad)
 
 ![¡No se fijen en los errores!]({{base_path}}/images/Transcribir1/IMG_0054.PNG "¡No se fijen en los errores!")
 
-¿Bonito? No. Pero cumple su función aceptablemente bien. También hay otras apps, como [English IPA keyboard](https://itunes.apple.com/us/app/english-ipa-keyboard/id909967485?mt=8) que cumplen funciones parecidas. 
+¿Bonito? No. Pero cumple su función aceptablemente bien. También hay otras apps, como [English IPA keyboard](https://itunes.apple.com/us/app/english-ipa-keyboard/id909967485?mt=8) que cumplen funciones parecidas.
 
 ##  Distribución de teclado IPA para OS X
 

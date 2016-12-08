@@ -5,7 +5,7 @@ excerpt: "Por qué compré un iPad Pro y cómo he estado usándolo"
 categories:
   - Tech
 header:
-  image: IMG_0045.JPG
+  image: images/IMG_0045.JPG
 
 ---
 

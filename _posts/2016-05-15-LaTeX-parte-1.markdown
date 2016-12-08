@@ -5,7 +5,7 @@ excerpt: "LaTeX en iOS, una primera aproximación"
 categories: 
     - Tech
 header:
-  image: HeaderLaTeX1.png
+  image: images/HeaderLaTeX1.png
 ---
 
 Escribir en LaTeX es una necesidad importante, casi fundamental, para mí. Lamentablemente, hasta ahora encontrar una forma relativamente agradable de hacerlo en el iPad había sido frustrante. No sólo por las aplicaciones en sí mismas, sino que especialmente por la inflexibilidad con que fueron diseñadas.
