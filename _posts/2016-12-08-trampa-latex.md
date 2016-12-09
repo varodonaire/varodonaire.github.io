@@ -14,6 +14,8 @@ Hace algún tiempo (largo), [escribía]({{ site.baseurl }}{% post_url 2016-05-15
 
 Durante este tiempo hice algunos experimentos para tratar de aliviar estos problemas. Por ejemplo, descubrí [Textastic](https://www.textasticapp.com), un editor de texto muy sencillo, pero útil en iOS. Bastante espartano en su interfaz, pero en realidad así es como me gustan. Además, sincroniza con iCloud Drive de manera bastante rápida.[^1]
 
+![Textastic]({{base_path}}/images/trampaLaTeX/Textastic.png "Textastic"){: .align-center}
+
 
 Sin embargo, seguía teniendo el problema de cómo componer[^2] el archivo de LaTeX remotamente. Intenté algunas aproximaciones medio exóticas, como escribir en markdown y usar [pandoc](http://pandoc.org) en el mac, pero el problema real era cómo gatillar el procesamiento del archivo.
 
