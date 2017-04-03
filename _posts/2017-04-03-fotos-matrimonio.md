@@ -1,6 +1,7 @@
 ---
 title: "Algunas fotos de un matrimonio"
 excerpt: "By David"
+date: 2017-04-03 00:00
 categories:
   - Personal
 header:
