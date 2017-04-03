@@ -6,7 +6,6 @@ categories:
   - Personal
 header:
   image: images/IMG_4191.jpg
- 
 gallery:
   - url: {{base_path}}/images/Matrimonio/IMG_4191.jpg
     image_path: {{base_path}}/images/Matrimonio/IMG_4191.jpg
