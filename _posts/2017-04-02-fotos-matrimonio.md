@@ -1,6 +1,5 @@
 ---
 title: "Algunas fotos de un matrimonio"
-date: 2017-04-02 23:18
 excerpt: "By David"
 categories:
   - Personal
