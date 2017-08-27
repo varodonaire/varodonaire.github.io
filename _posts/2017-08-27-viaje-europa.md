@@ -18,10 +18,6 @@ gallery:
     image_path: /images/Europa2017/Thumbnails/ThumbEuropa2017-3.jpg
     alt: ""
     title: ""
-  - url: /images/Europa2017/Europa2017-4.jpg
-    image_path: /images/Europa2017/Thumbnails/ThumbEuropa2017-4.jpg
-    alt: ""
-    title: ""
   - url: /images/Europa2017/Europa2017-5.jpg
     image_path: /images/Europa2017/Thumbnails/ThumbEuropa2017-5.jpg
     alt: ""
