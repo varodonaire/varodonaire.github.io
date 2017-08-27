@@ -4,7 +4,7 @@ excerpt: "Madrid, Roma y Venecia"
 categories: 
     - Personal
 header:
-  image: images/Europa2017/Header.jpg
+  image: /images/Europa2017/Header.jpg
 gallery:
   - url: /images/Europa2017/Europa2017-1.jpg
    image_path: /images/Europa2017/Thumbnails/ThumbEuropa2017-1.jpg
