@@ -248,5 +248,7 @@ gallery:
 
 Probablemente el último viaje en mucho rato, si todo sale bien.
 
+(Clic en las imágenes para verlas más grandes)
+
 
 {% include gallery %}
