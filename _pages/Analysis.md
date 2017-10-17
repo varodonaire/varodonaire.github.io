@@ -47,7 +47,7 @@ Looking at the results per group (ie, kind of voice heard), we find the followin
 
 shown in the following graph
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 and as a table of proportions
 
@@ -59,11 +59,11 @@ and as a table of proportions
 
 Describing the proportions per row, we have the following graph
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
 and per column
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 ### Analysis per vocalic contrast
 
@@ -120,14 +120,14 @@ We can now look at a table and a graph showing us the not-so nitty-gritty detail
     ##   F        16      64
     ##   Z         0       0
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
 An interesting question would be to know if the different voice has any incidence in the results. We can look at it from many points of view. One could be to compare per vocalic contrast (using proportions allows us to see the differences per correct or incorrect answer without skewing)
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
 Or we could compare per group (again, using proportions)
 
-![](Analysis_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](images/Analysis_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
 It is interesting to note how much more homogeneous is the live voice group. Also, the recorded voice and the synthetic voice groups look much more alike.
