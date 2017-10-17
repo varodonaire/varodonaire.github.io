@@ -2,6 +2,7 @@
 layout: single
 title: "Analysis"
 date: 2017-10-16
+permalink: /analysis.html
 ---
 
 ``` r
