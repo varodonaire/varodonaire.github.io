@@ -1,5 +1,5 @@
 ---
-title: ¡Hola!
+title: "¡Hola!"
 ---
 
 ¡Hola! Un nuevo comienzo.
