@@ -1,7 +1,10 @@
-theme: minima
 title: Varodonaire
 author: Alvaro Mattus Donaire
 description: Alvaradas
+
+
+remote_theme: dieghernan/chulapa
+
 
 
 include:
