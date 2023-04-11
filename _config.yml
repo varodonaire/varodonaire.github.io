@@ -2,3 +2,11 @@ theme: minima
 title: Varodonaire
 author: Alvaro Mattus Donaire
 description: Alvaradas
+
+
+include:
+  - .htaccess
+  - _pages
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
