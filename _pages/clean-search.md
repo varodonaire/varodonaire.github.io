@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/clean-search"
+      path: "/clean-search/"
       type: pages
     values:
       layout: single

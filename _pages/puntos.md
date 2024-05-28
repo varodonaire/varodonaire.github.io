@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/puntos"
+      path: "/puntos/"
       type: pages
     values:
       layout: single
