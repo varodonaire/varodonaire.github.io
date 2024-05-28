@@ -1,15 +1,3 @@
----
-defaults:
-  # _pages
-  - scope:
-      path: "/clean-search/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
----
-
 # Clean Search
 
 ### The Essential Safari Extension for iOS, iPadOS, and Mac
